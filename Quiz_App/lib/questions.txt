@@ -1,0 +1,69 @@
+What is Flutter?
+a) A programming language
+b) A game development framework
+c) A mobile app development framework
+d) A database management system
+Correct answer: c) A mobile app development framework
+
+Which programming language is primarily used for Flutter development?
+a) Java
+b) Kotlin
+c) Dart
+d) Swift
+Correct answer: c) Dart
+
+What does the "Scaffold" widget provide in a Flutter app?
+a) A material design app bar
+b) A scrolling list of widgets
+c) A navigation drawer
+d) A splash screen
+Correct answer: a) A material design app bar
+
+Which widget is used to create a button in Flutter?
+a) Text
+b) Label
+c) Button
+d) RaisedButton
+Correct answer: d) RaisedButton
+
+What is "Hot Reload" in Flutter?
+a) A debugging tool
+b) A way to warm up your device
+c) A feature that allows you to see code changes instantly in your app
+d) A performance optimization technique
+Correct answer: c) A feature that allows you to see code changes instantly in your app
+
+What is the main function responsible for in a Flutter app?
+a) Initializing the app's UI
+b) Handling user input
+c) Defining app constants
+d) Managing device settings
+Correct answer: a) Initializing the app's UI
+
+Which package is commonly used for state management in Flutter?
+a) redux
+b) mobx
+c) provider
+d) stateful
+Correct answer: c) provider
+
+What is the purpose of the "pubspec.yaml" file in a Flutter project?
+a) To specify the app's name and icon
+b) To list the project dependencies
+c) To define the app's database schema
+d) To configure the app's navigation routes
+Correct answer: b) To list the project dependencies
+
+Which command is used to create a new Flutter project from the command line?
+a) flutter init
+b) flutter create
+c) flutter new
+d) flutter start
+Correct answer: b) flutter create
+
+What is the Flutter widget that is used for creating scrollable lists?
+a) ListTile
+b) ListView
+c) GridView
+d) ScrollableList
+Correct answer: b) ListView
